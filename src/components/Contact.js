@@ -28,8 +28,8 @@ const Contact = () => {
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body">
-                               Created by <strong>Rakesh Charpe</strong>
-                                <p>You can contact me on my email:<code>rakescharpe99@gmail.com</code></p>
+                               Created by <strong>Varis Rana</strong>
+                                <p>You can contact me on my email:<code>vrvarisrana123@gmail.com</code></p>
                 </div>
               </div>
             </div>
